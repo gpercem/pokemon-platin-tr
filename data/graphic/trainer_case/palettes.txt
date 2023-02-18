@@ -1,1 +1,5 @@
+trainer_case_30.RGCN.png 
+trainer_case_29.RGCN.png 
 trainer_case_27.RGCN.png = trainer_case_0.RLCN
+
+zukan_28.bin.png = zukan_0.RLCN
