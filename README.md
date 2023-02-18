@@ -7,6 +7,14 @@ EN
 TR
 >Bu proje; Pokémon Platinum'daki UI dokuları, dünya dokuları ve yazılar dahil olmak üzere her şeyin çevrilmesi için oluşturulmuştur.
 
+## **Klasör Yapısı**
+
+/data -> Çevrilen verilerin bulunduğu klasör.
+
+/eng_data -> Düzenleme yapılmamış verilerin bulunduğu klasör.
+
+/media -> Oyun dışı çevrilen medyaların bulunduğu klasör.
+
 ## **Kullanılan Programlar**
 
 [**Tinke 0.9.2:**](https://github.com/pleonex/tinke) UI dokularını düzenlemek için kullanılacak.
