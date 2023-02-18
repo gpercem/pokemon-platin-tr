@@ -9,19 +9,21 @@ TR
 
 ## **Klasör Yapısı**
 
-/data -> Çevrilen verilerin bulunduğu klasör.
+- */data* -> Çevrilen verilerin bulunduğu klasör.
 
-/eng_data -> Düzenleme yapılmamış verilerin bulunduğu klasör.
+- */eng_data* -> Düzenleme yapılmamış verilerin bulunduğu klasör.
 
-/media -> Oyun dışı çevrilen medyaların bulunduğu klasör.
+- */media* -> Oyun dışı çevrilen medyaların bulunduğu klasör.
+
+
 
 ## **Kullanılan Programlar**
 
-[**Tinke 0.9.2:**](https://github.com/pleonex/tinke) UI dokularını düzenlemek için kullanılacak.
+- [**Tinke 0.9.2:**](https://github.com/pleonex/tinke) UI dokularını düzenlemek için kullanılacak.
 
-[**AdAstra-LD's DSPRE (Özelleştirilmiş):**](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor) Yazıların düzenlenmesi için kullanılması planlanıyor. Orijinal DSPRE'de msgdata bankalarının batch export'lanması olmadığı için özel bir DSPRE fork'u çıkarabilirim. Eğer hatalı olursa [**JimB16'nın Platinum Decomp'u**](https://github.com/JimB16/PokePlat) kullanılabilir.
+- [**AdAstra-LD's DSPRE (Özelleştirilmiş):**](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor) Yazıların düzenlenmesi için kullanılması planlanıyor. Orijinal DSPRE'de msgdata bankalarının batch export'lanması olmadığı için özel bir DSPRE fork'u çıkarabilirim. Eğer hatalı olursa [**JimB16'nın Platinum Decomp'u**](https://github.com/JimB16/PokePlat) kullanılabilir.
 
-[**PokeFontDS:**](https://github.com/hadashisora/PokeFontDS) Türkçe karakterlerin eklenmesi için kullanılacak.
+- [**PokeFontDS:**](https://github.com/hadashisora/PokeFontDS) Türkçe karakterlerin eklenmesi için kullanılacak.
 
 ## **Türkçe Karakterlerin Oyuna Eklenmesi**
 
