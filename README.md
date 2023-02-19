@@ -21,7 +21,7 @@ TR
 
 - [**Tinke 0.9.2:**](https://github.com/pleonex/tinke) UI dokularını düzenlemek için kullanılacak.
 
-- [**AdAstra-LD's DSPRE (Özelleştirilmiş):**](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor) Yazıların düzenlenmesi için kullanılması planlanıyor. Orijinal DSPRE'de msgdata bankalarının batch export'lanması olmadığı için özel bir DSPRE fork'u çıkarabilirim. Eğer hatalı olursa [**JimB16'nın Platinum Decomp'u**](https://github.com/JimB16/PokePlat) kullanılabilir.
+- [**DSPRE BatchTextEditor**](https://github.com/kiplunch/DSPRE-Batch-Text-Editor) Yazıların düzenlenmesi için kullanılması planlanıyor. Orijinal DSPRE'de msgdata bankalarının batch export'lanması olmadığı için özel bir DSPRE fork'u çıkardım. Eğer hatalı olursa [**JimB16'nın Platinum Decomp'u**](https://github.com/JimB16/PokePlat) kullanılabilir.
 
 - [**PokeFontDS:**](https://github.com/hadashisora/PokeFontDS) Türkçe karakterlerin eklenmesi için kullanılacak.
 
