@@ -40,4 +40,4 @@ Bu karakterleri seçmemin geçerli bir sebebi yok. Bir .msg yazı dosyasında ç
 ----
 
 Çeviride yardımcı olmak istiyorsanız ve daha önceden çeviri tecrübeniz varsa bana Discord adresimden ulabaşabilirsiniz. (Yardım lazım 😧)
-gökomon#3956
+göko#3956
