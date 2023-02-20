@@ -7,6 +7,12 @@ EN
 TR
 >Bu proje; Pokémon Platinum'daki UI dokuları, dünya dokuları ve yazılar dahil olmak üzere her şeyin çevrilmesi için oluşturulmuştur.
 
+## Yama Durumu Hakkında Bilgi
+
+Yama Durumu Sheet'i Linki: [Google Sheets](https://docs.google.com/spreadsheets/d/1czuo0PlE2Y4baozJL1qaZyRc67sOhV6O2YCecNOJVVM/edit#gid=0)
+
+
+
 ## **Klasör Yapısı**
 
 - */data* -> Çevrilen verilerin bulunduğu klasör.
